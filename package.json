@@ -1,0 +1,12 @@
+{
+  "name": "shreyas_Surve",
+  "version": "1.0.0",
+  "description": "All about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas_Surve",
+  "license": "ISC",
+  "dependencies": {}
+}

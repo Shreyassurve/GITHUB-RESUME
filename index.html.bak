@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <title>Shashank Here 😁</title>
+
+    <meta property="og:title" content="Shreyas Surve" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://shashank23p.github.io/" />
+    <meta property="og:image:url" content="/assets/meta-moon.jpg" />
+    <meta property="og:description" content="🚀 Welcome to my space!" />
+  </head>
+  <body>
+    <canvas id="bg"></canvas>
+
+    <main>
+      <header>
+        <h1>Shreyas Surve</h1>
+        <p>🚀 Welcome to my space!</p>
+      </header>
+
+      <blockquote>
+        <p>
+          I turn tea<br />
+          into software
+        </p>
+      </blockquote>
+
+      <section class="left">
+        <h2>
+          <span class="emoji">👨‍🚀</span>
+          Let's talk about me
+        </h2>
+        <p>
+          I want to become developer from Mumbai, India<br />
+          born on 12th Sep 2000
+        </p>
+        <p>
+          I like making new stuff and putting it on the internet,<br />
+          I am always learning new tech and puting it to good use.<br />
+          In love with computers 💻 and smartphones️,<br />
+          Love solving real life problems with my code.<br />
+        </p>
+        <p></p>
+      </section>
+
+      <section class="light">
+        <h2>
+          <span class="emoji">👨‍🎓</span>
+          My Degrees
+        </h2>
+        <h3>
+          <span class="emoji">🥇</span>
+          B.Sc. IT
+        </h3>
+        <h4>JES COLLEGE | MUMBAI UNIVERSITY | 2021</h4>
+        <p class="mb-50 mt-5">CGPA 6.31 | 2<sup>ND</sup> CLASS</p>
+
+        <h3>
+          <span class="emoji">🌟</span>
+          H.S.C
+        </h3>
+        <h4>ISMAIL YUSUF COLLEGE | MAHARASHTRA BOARD | 2018</h4>
+        <p class="mb-50 mt-5">47.38% | 
+
+        <h3>
+          <span class="emoji">⚡</span>
+          S.S.C
+        </h3>
+        <h4>BVVM | MAHARASHTRA BOARD | 2016</h4>
+        <p class="mb-50 mt-5">72.40% | 1<sup>ST</sup> CLASS</p>
+      </section>
+
+      <blockquote>
+        <p>
+          Small aim is a crime;<br />
+          have great aim. <br />-Dr. Kalam
+        </p>
+      </blockquote>
+
+      <section class="left">
+        <h2>
+          <span class="emoji">👨‍💼</span>
+          Places I worked in
+        </h2>
+
+        <h3>Aptech MUMBAI</h3>
+        <h4>System Administrator ( Nov 2021 - Jan 2022 )</h4>
+        <p class="mb-50 mt-5">
+          Good work environment
+         handled system & networking related issue
+         Online testing for various open university
+         Handled prometric centre for various certification exam.
+        </p>
+
+       
+
+      <section>
+        <h2>
+          <span class="emoji">📫</span>
+          Let's get in touch
+        </h2>
+
+        <h3>
+          <span class="emoji">📧</span>
+          Email
+        </h3>
+        <p class="mb-50 mt-5 hover-150">
+          <a href="mailto:shreyassurve123456789@gmail.com"
+            >shreyassurve123456789@gmail.com</a
+          >
+        </p>
+
+        <h3>
+          <span class="emoji">👔</span>
+          Linked In
+        </h3>
+        <p class="mb-50 mt-5 hover-150">
+          <a href="https://www.linkedin.com/in/shreyas-surve-830148213/"
+            >shreyas surve</a
+          >
+        </p>
+
+        <h3>
+          <span class="emoji">🤓</span>
+          GitHub
+        </h3>
+        <p class="mb-50 mt-5 hover-150">
+          <a href="https://github.com/Shreyassurve">Shreyassurve</a>
+        </p>
+		
+        <h3>
+          <span class="emoji">☎️</span>
+          Call Me
+        </h3>
+        <p class="mb-50 mt-5 hover-150">
+          <a href="tel:+919004752133">+91 9004752133</a>
+        </p>
+      </section>
+
+      <blockquote>
+        <p>
+          Nothing is too far,<br />
+          not even moon
+          <span class="emoji">🌙</span>
+        </p>
+      </blockquote>
+    </main>
+
+    <script type="module" src="js/render.js"></script>
+  </body>
+</html>
